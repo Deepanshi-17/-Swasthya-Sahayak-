@@ -1,7 +1,5 @@
-# Swasthya-Sahayak (Health-Assistant)
+#🏥Swasthya-Sahayak (Healthcare-Provider Recommendation System)
 Google Girl Hackathon - Ideathon Round Submission
-
-# Healthcare Recommendation System
 
 ## Overview
 
@@ -9,13 +7,13 @@ This project aims to develop a healthcare recommendation system to facilitate th
 
 ## Features
 
-- **Symptom Analysis:** Machine learning algorithms analyze user-entered symptoms to identify potential health conditions. The system utilizes a dataset containing disease-symptom correlations to make accurate predictions.
+- ** 🩺Symptom Analysis:** Machine learning algorithms analyze user-entered symptoms to identify potential health conditions. The system utilizes a dataset containing disease-symptom correlations to make accurate predictions.
   
-- **Doctor Recommendation:** Recommended doctors are matched with user symptoms based on specialties and availability. The recommendation engine prioritizes doctors with high ratings and aligned schedules to ensure quality and convenience for users.
+- ** 📋Doctor Recommendation:** Recommended doctors are matched with user symptoms based on specialties and availability. The recommendation engine prioritizes doctors with high ratings and aligned schedules to ensure quality and convenience for users.
 
-- **Multilingual Support:** NLP techniques are employed to interpret and understand user inputs in multiple languages, enhancing accessibility for users from diverse linguistic backgrounds.
+- ** 🌍Multilingual Support:** NLP techniques are employed to interpret and understand user inputs in multiple languages, enhancing accessibility for users from diverse linguistic backgrounds.
 
-- **User-Friendly Interface:** A web-based interface provides users with an intuitive platform to input symptoms, view recommended doctors, and provide feedback on the recommendations. The interface is designed to be user-friendly and responsive, ensuring a seamless user experience.
+- ** 🖥️User-Friendly Interface:** A web-based interface provides users with an intuitive platform to input symptoms, view recommended doctors, and provide feedback on the recommendations. The interface is designed to be user-friendly and responsive, ensuring a seamless user experience.
 
 ## Setup
 
@@ -77,10 +75,10 @@ python app.py
 
 ## Contributing
 
-Contributions to the project are welcome! If you encounter any issues or have ideas for improvements, please submit a GitHub issue or create a pull request with your changes.
+👩‍💻 Contributions to the project are welcome! If you encounter any issues or have ideas for improvements, please submit a GitHub issue or create a pull request with your changes.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+📝 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 

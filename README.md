@@ -7,7 +7,7 @@ This project aims to develop a healthcare recommendation system to facilitate th
 
 ## Features
 
--🩺 **Symptom Analysis:** Machine learning algorithms analyze user-entered symptoms to identify potential health conditions. The system utilizes a dataset containing disease-symptom correlations to make accurate predictions.
+- 🩺 **Symptom Analysis:** Machine learning algorithms analyze user-entered symptoms to identify potential health conditions. The system utilizes a dataset containing disease-symptom correlations to make accurate predictions.
   
 - 📋**Doctor Recommendation:** Recommended doctors are matched with user symptoms based on specialties and availability. The recommendation engine prioritizes doctors with high ratings and aligned schedules to ensure quality and convenience for users.
 

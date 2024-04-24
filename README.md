@@ -27,15 +27,19 @@ This project aims to develop a healthcare recommendation system to facilitate th
 ### Installation
 
 1. Clone the repository to your local machine:
+```
 git clone https://github.com/your-username/healthcare-recommendation-system.git
+```
 
 2. Navigate to the project directory:
 cd healthcare-recommendation-system
 
 3. Create a virtual environment (optional but recommended):
+```
 python -m venv venv
+```
 
-4. Activate the virtual environment:
+5. Activate the virtual environment:
 
 - On Windows:
 
@@ -56,7 +60,9 @@ pip install -r requirements.txt
 ### Usage
 
 1. Run the application:
+```
 python app.py
+```
 
 
 2. Access the application in your web browser at `http://localhost:5000`.

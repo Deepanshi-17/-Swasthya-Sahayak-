@@ -45,11 +45,14 @@ This project aims to develop a healthcare recommendation system to facilitate th
 - **Emergency Button:** Incorporate an emergency button feature that, when activated, provides immediate access to nearby healthcare facilities based on geolocation.
 
 - **Multilingual Chatbot Assistant:** Recognizing the linguistic diversity of our country, integrate a multilingual chatbot assistant using NLP. This chatbot will enable users to input symptoms in their preferred language, ensuring accessibility for everyone.
-  
+
+## References
+
+- Symptom-Disease Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
+- Healthcare-Provider Dataset: Web scrapped from [DrData](https://www.drdata.in/listdoctors.php?search=Doctor&state=&state=Uttar%20Pradesh&page=2)
+- Review paper on Healthcare Recommendation System: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0957417422018413)
+
 ## Contributing
 
 👩‍💻 Contributions to the project are welcome! If you encounter any issues or have ideas for improvements, please submit a GitHub issue or create a pull request with your changes.
-
-
-
 

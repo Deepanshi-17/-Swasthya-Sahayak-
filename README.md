@@ -15,63 +15,30 @@ This project aims to develop a healthcare recommendation system to facilitate th
 
 - 🖥️**User-Friendly Interface:** A web-based interface provides users with an intuitive platform to input symptoms, view recommended doctors, and provide feedback on the recommendations. The interface is designed to be user-friendly and responsive, ensuring a seamless user experience.
 
-## Setup
-
 ### Prerequisites
 
-- Python 3.x installed on your system
-- Git installed on your system (optional)
+- The latest version of Python installed on your system
+- Jupyter Notebook installed (optional) or access to Google Colab for running code files
 
 ### Installation
 
-1. Clone the repository to your local machine:
-```
-git clone https://github.com/your-username/healthcare-recommendation-system.git
-```
+1. Download the project files from the repository.
 
-2. Navigate to the project directory:
-cd healthcare-recommendation-system
+2. Ensure you have the latest version of Python installed on your system.
 
-3. Create a virtual environment (optional but recommended):
-```
-python -m venv venv
-```
+3. Install Jupyter Notebook (optional) or open the code file in Google Colab.
 
-5. Activate the virtual environment:
-
-- On Windows:
-
-  ```
-  venv\Scripts\activate
-  ```
-
-- On macOS and Linux:
-
-  ```
-  source venv/bin/activate
-  ```
-
-5. Install the required dependencies:
-pip install -r requirements.txt
-
+4. Upload the dataset named `updated_dataset.csv` along with the code files in your working environment.
 
 ### Usage
 
-1. Run the application:
-```
-python app.py
-```
+1. Open the `updated_main.ipynb` file in your Jupyter Notebook or Google Colab.
 
+2. Run the code file.
 
-2. Access the application in your web browser at `http://localhost:5000`.
+3. Enter your symptoms when prompted. Ensure the symptoms match those available in the dataset.
 
-3. Enter your symptoms in the input field provided on the web interface.
-
-4. Click the "Submit" button to analyze your symptoms and receive doctor recommendations.
-
-5. View the recommended doctors along with their specialties, ratings, and available appointment times.
-
-6. Provide feedback on the recommendations to help improve the system's accuracy and effectiveness.
+4. The system will output the most relevant diseases and recommend a doctor specializing in the corresponding field. The recommendation will consider the doctor's availability and user ratings.
 
 ## Contributing
 

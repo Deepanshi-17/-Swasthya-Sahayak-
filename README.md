@@ -1,9 +1,10 @@
-## 🏥Swasthya-Sahayak (Healthcare-Provider Recommendation System)
+## 🏥स्वास्थ्य सहायक (Swasthya Sahayak)
 Google Girl Hackathon - Ideathon Round Submission
 
-## Overview
+## OVERVIEW
 
-This project aims to develop a healthcare recommendation system to facilitate the process of finding and connecting with healthcare providers based on user-entered symptoms. Leveraging machine learning, natural language processing (NLP), and web development technologies, the system offers personalized doctor recommendations tailored to individual healthcare needs.
+The Problem Statement was to develop a comprehensive healthcare recommendation system, essentially serving as a doctor-finder platform. This system operates by analyzing symptoms provided by users to pinpoint potential health conditions, which are then matched with doctors specializing in relevant fields and offering available appointments. Additionally, the system factors in user ratings to recommend highly regarded healthcare providers. Leveraging datasets encompassing disease-symptom correlations and extensive profiles of healthcare practitioners, including specialties, ratings, and availability, ensures precise and efficient recommendations tailored to individual needs.
+
 
 ## Features
 
@@ -45,6 +46,8 @@ This project aims to develop a healthcare recommendation system to facilitate th
 - **Emergency Button:** Incorporate an emergency button feature that, when activated, provides immediate access to nearby healthcare facilities based on geolocation.
 
 - **Multilingual Chatbot Assistant:** Recognizing the linguistic diversity of our country, integrate a multilingual chatbot assistant using NLP. This chatbot will enable users to input symptoms in their preferred language, ensuring accessibility for everyone.
+
+- **Interactive UI:** Develop an interactive user interface that is easy to navigate and supports accessibility features such as text-to-speech conversion and alternative text for images. This will ensure that the system is usable by individuals with disabilities.
 
 ## References
 

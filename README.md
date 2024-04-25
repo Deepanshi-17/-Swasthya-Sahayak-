@@ -44,8 +44,6 @@ This project aims to develop a healthcare recommendation system to facilitate th
 
 👩‍💻 Contributions to the project are welcome! If you encounter any issues or have ideas for improvements, please submit a GitHub issue or create a pull request with your changes.
 
-## License
 
-📝 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 

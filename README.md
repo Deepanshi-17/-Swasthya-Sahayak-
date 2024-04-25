@@ -11,10 +11,6 @@ This project aims to develop a healthcare recommendation system to facilitate th
   
 - 📋**Doctor Recommendation:** Recommended doctors are matched with user symptoms based on specialties and availability. The recommendation engine prioritizes doctors with high ratings and aligned schedules to ensure quality and convenience for users.
 
-- 🌍**Multilingual Support:** NLP techniques are employed to interpret and understand user inputs in multiple languages, enhancing accessibility for users from diverse linguistic backgrounds.
-
-- 🖥️**User-Friendly Interface:** A web-based interface provides users with an intuitive platform to input symptoms, view recommended doctors, and provide feedback on the recommendations. The interface is designed to be user-friendly and responsive, ensuring a seamless user experience.
-
 ### Prerequisites
 
 - The latest version of Python installed on your system
@@ -40,6 +36,16 @@ This project aims to develop a healthcare recommendation system to facilitate th
 
 4. The system will output the most relevant diseases and recommend a doctor specializing in the corresponding field. The recommendation will consider the doctor's availability and user ratings.
 
+## Future Scope
+
+- **Updation of User Ratings:** Implement a feature to allow users to update doctor ratings over time, ensuring the recommendations remain relevant and accurate.
+  
+- **Updating Doctor Schedules:** Integrate functionality to update doctor schedules dynamically, reflecting real-time availability.
+
+- **Emergency Button:** Incorporate an emergency button feature that, when activated, provides immediate access to nearby healthcare facilities based on geolocation.
+
+- **Multilingual Chatbot Assistant:** Recognizing the linguistic diversity of our country, integrate a multilingual chatbot assistant using NLP. This chatbot will enable users to input symptoms in their preferred language, ensuring accessibility for everyone.
+  
 ## Contributing
 
 👩‍💻 Contributions to the project are welcome! If you encounter any issues or have ideas for improvements, please submit a GitHub issue or create a pull request with your changes.

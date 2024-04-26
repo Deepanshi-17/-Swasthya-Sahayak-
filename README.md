@@ -29,7 +29,7 @@ The Problem Statement was to develop a comprehensive healthcare recommendation s
 
 ### USAGE
 
-1. Open the `updated_main.ipynb` file in your Jupyter Notebook or Google Colab.
+1. Open the `main_updated.ipynb` file in your Jupyter Notebook or Google Colab.
 
 2. Run the code file.
 
